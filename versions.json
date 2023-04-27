@@ -1,5 +1,8 @@
 {
     "animations": {
         "currentversion": "1.0.0"
+    },
+    "policecad": {
+        "currentversion": "1.0.0"
     }
 }
