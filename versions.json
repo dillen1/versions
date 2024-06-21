@@ -1,14 +1,6 @@
 {
-    "animations": {
-        "currentversion": "1.0.1"
+    "jobpanel": {
+        "currentversion": "1.0.1",
+        "changelog": "Test"
     },
-    "policecad": {
-        "currentversion": "1.0.1"
-    },
-    "gangsystem": {
-      "currentversion": "1.0.0"
-    },
-    "statusbar": {
-      "currentversion": "1.0.3"
-    }
 }
