@@ -1,7 +1,7 @@
 {
     "dillen-jobpanel": {
-        "currentversion": "1.0.0",
-        "changelog": "Test"
+        "currentversion": "1.0.1",
+        "changelog": "Added discord logs and support for karma-interaction"
     },
     "dillen-crafting": {
         "currentversion": "1.0.0",
